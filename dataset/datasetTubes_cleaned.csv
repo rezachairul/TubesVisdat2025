@@ -1,0 +1,814 @@
+Provinsi,Nilai,Tahun,Kategori
+Aceh,3363.9,2013-2014,Kawasan Hutan
+Sumatera Utara,4675.2,2013-2014,Kawasan Hutan
+Sumatera Barat,3330.3,2013-2014,Kawasan Hutan
+Riau,180786.5,2013-2014,Kawasan Hutan
+Sumatera Selatan,2853.5,2013-2014,Kawasan Hutan
+Bengkulu,12106.8,2013-2014,Kawasan Hutan
+Lampung,197.8,2013-2014,Kawasan Hutan
+Kepulauan Bangka Belitung,1209.7,2013-2014,Kawasan Hutan
+Kepulauan Riau,4.3,2013-2014,Kawasan Hutan
+DI Yogyakarta,0.9,2013-2014,Kawasan Hutan
+Jawa Timur,5452.2,2013-2014,Kawasan Hutan
+Bali,110.0,2013-2014,Kawasan Hutan
+Nusa Tenggara Timur,138.9,2013-2014,Kawasan Hutan
+Kalimantan Barat,7872.8,2013-2014,Kawasan Hutan
+Kalimantan Tengah,48370.7,2013-2014,Kawasan Hutan
+Kalimantan Selatan,5191.9,2013-2014,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,16610.8,2013-2014,Kawasan Hutan
+Sulawesi Utara,2249.8,2013-2014,Kawasan Hutan
+Sulawesi Tengah,1880.1,2013-2014,Kawasan Hutan
+Sulawesi Selatan,2461.6,2013-2014,Kawasan Hutan
+Sulawesi Tenggara,1485.0,2013-2014,Kawasan Hutan
+Gorontalo,2228.0,2013-2014,Kawasan Hutan
+Sulawesi Barat,428.5,2013-2014,Kawasan Hutan
+Maluku,589.5,2013-2014,Kawasan Hutan
+Maluku Utara,168.4,2013-2014,Kawasan Hutan
+Papua Barat,1400.1,2013-2014,Kawasan Hutan
+Papua,11472.4,2013-2014,Kawasan Hutan
+INDONESIA,292533.9,2013-2014,Kawasan Hutan
+Aceh,4284.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,1465.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Barat,1725.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Riau,21152.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,2868.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,673.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,489.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Riau,0.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DI Yogyakarta,31.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Timur,2044.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,20.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,22046.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,10464.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Selatan,1746.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,21728.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,1528.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,2833.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,892.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,883.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,358.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,500.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,322.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,1400.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,448.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,8970.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,104837.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,7648.1,nan,Total Deforestasi
+Sumatera Utara,6140.5,nan,Total Deforestasi
+Sumatera Barat,5056.0,nan,Total Deforestasi
+Riau,201939.4,nan,Total Deforestasi
+Sumatera Selatan,3527.2,nan,Total Deforestasi
+Bengkulu,12069.4,nan,Total Deforestasi
+Lampung,163.9,nan,Total Deforestasi
+Kepulauan Bangka Belitung,1699.4,nan,Total Deforestasi
+Kepulauan Riau,4.6,nan,Total Deforestasi
+DI Yogyakarta,32.8,nan,Total Deforestasi
+Jawa Timur,7497.1,nan,Total Deforestasi
+Bali,130.2,nan,Total Deforestasi
+Nusa Tenggara Timur,108.8,nan,Total Deforestasi
+Kalimantan Barat,29919.6,nan,Total Deforestasi
+Kalimantan Tengah,58835.6,nan,Total Deforestasi
+Kalimantan Selatan,6938.5,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,38339.4,nan,Total Deforestasi
+Sulawesi Utara,3778.1,nan,Total Deforestasi
+Sulawesi Tengah,4714.0,nan,Total Deforestasi
+Sulawesi Selatan,3354.0,nan,Total Deforestasi
+Sulawesi Tenggara,2368.3,nan,Total Deforestasi
+Gorontalo,2586.1,nan,Total Deforestasi
+Sulawesi Barat,929.0,nan,Total Deforestasi
+Maluku,912.2,nan,Total Deforestasi
+Maluku Utara,1569.1,nan,Total Deforestasi
+Papua Barat,1848.9,nan,Total Deforestasi
+Papua,20443.1,nan,Total Deforestasi
+INDONESIA,397370.9,nan,Total Deforestasi
+Sumatera Utara,15450.3,2014-2015,Kawasan Hutan
+Sumatera Barat,8813.9,2014-2015,Kawasan Hutan
+Riau,124314.6,2014-2015,Kawasan Hutan
+Jambi,15422.4,2014-2015,Kawasan Hutan
+Sumatera Selatan,271032.8,2014-2015,Kawasan Hutan
+Bengkulu,2139.6,2014-2015,Kawasan Hutan
+Lampung,12909.9,2014-2015,Kawasan Hutan
+Kepulauan Bangka Belitung,13594.7,2014-2015,Kawasan Hutan
+Kepulauan Riau,1191.5,2014-2015,Kawasan Hutan
+Jawa Barat,1750.5,2014-2015,Kawasan Hutan
+Jawa Tengah,1589.5,2014-2015,Kawasan Hutan
+DI Yogyakarta,51.8,2014-2015,Kawasan Hutan
+Jawa Timur,3621.0,2014-2015,Kawasan Hutan
+Banten,1282.2,2014-2015,Kawasan Hutan
+Bali,77.5,2014-2015,Kawasan Hutan
+Nusa Tenggara Barat,8896.4,2014-2015,Kawasan Hutan
+Nusa Tenggara Timur,2962.7,2014-2015,Kawasan Hutan
+Kalimantan Barat,5754.0,2014-2015,Kawasan Hutan
+Kalimantan Tengah,163240.0,2014-2015,Kawasan Hutan
+Kalimantan Selatan,34631.5,2014-2015,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,36403.9,2014-2015,Kawasan Hutan
+Sulawesi Utara,795.1,2014-2015,Kawasan Hutan
+Sulawesi Tengah,10546.3,2014-2015,Kawasan Hutan
+Sulawesi Selatan,8765.8,2014-2015,Kawasan Hutan
+Sulawesi Tenggara,5475.4,2014-2015,Kawasan Hutan
+Gorontalo,13146.6,2014-2015,Kawasan Hutan
+Sulawesi Barat,1772.0,2014-2015,Kawasan Hutan
+Maluku,2870.2,2014-2015,Kawasan Hutan
+Maluku Utara,10321.6,2014-2015,Kawasan Hutan
+Papua Barat,2696.0,2014-2015,Kawasan Hutan
+Papua,34159.7,2014-2015,Kawasan Hutan
+INDONESIA,815607.5,2014-2015,Kawasan Hutan
+Aceh,3303.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,5215.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Barat,1685.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Riau,11216.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,1470.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,19744.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bengkulu,1993.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Lampung,3790.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,5697.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Riau,130.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Barat,4309.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Tengah,3641.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Timur,4128.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Banten,529.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Barat,186.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Timur,10969.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,34723.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,23402.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Selatan,12072.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,64526.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,512.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,10829.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,1580.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,1641.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,1704.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,565.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,2063.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,1629.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,9611.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,33698.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,276574.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,3231.5,nan,Total Deforestasi
+Sumatera Utara,20665.7,nan,Total Deforestasi
+Sumatera Barat,10498.9,nan,Total Deforestasi
+Riau,135530.7,nan,Total Deforestasi
+Jambi,16893.1,nan,Total Deforestasi
+Sumatera Selatan,290777.0,nan,Total Deforestasi
+Bengkulu,4133.1,nan,Total Deforestasi
+Lampung,16700.2,nan,Total Deforestasi
+Kepulauan Bangka Belitung,19292.3,nan,Total Deforestasi
+Kepulauan Riau,1322.0,nan,Total Deforestasi
+Jawa Barat,6060.0,nan,Total Deforestasi
+Jawa Tengah,5231.4,nan,Total Deforestasi
+DI Yogyakarta,51.8,nan,Total Deforestasi
+Jawa Timur,7749.2,nan,Total Deforestasi
+Banten,1811.5,nan,Total Deforestasi
+Bali,77.5,nan,Total Deforestasi
+Nusa Tenggara Barat,9083.2,nan,Total Deforestasi
+Nusa Tenggara Timur,13932.0,nan,Total Deforestasi
+Kalimantan Barat,40477.2,nan,Total Deforestasi
+Kalimantan Tengah,186642.0,nan,Total Deforestasi
+Kalimantan Selatan,46703.8,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,100930.8,nan,Total Deforestasi
+Sulawesi Utara,1307.5,nan,Total Deforestasi
+Sulawesi Tengah,21376.3,nan,Total Deforestasi
+Sulawesi Selatan,10346.6,nan,Total Deforestasi
+Sulawesi Tenggara,7116.7,nan,Total Deforestasi
+Gorontalo,14851.4,nan,Total Deforestasi
+Sulawesi Barat,2337.5,nan,Total Deforestasi
+Maluku,4933.5,nan,Total Deforestasi
+Maluku Utara,11951.5,nan,Total Deforestasi
+Papua Barat,12307.7,nan,Total Deforestasi
+Papua,67857.9,nan,Total Deforestasi
+INDONESIA,1092181.5,nan,Total Deforestasi
+Aceh,12523.0,2015-2016,Kawasan Hutan
+Sumatera Utara,7907.3,2015-2016,Kawasan Hutan
+Sumatera Barat,8199.1,2015-2016,Kawasan Hutan
+Riau,18365.4,2015-2016,Kawasan Hutan
+Jambi,24263.0,2015-2016,Kawasan Hutan
+Sumatera Selatan,3089.3,2015-2016,Kawasan Hutan
+Bengkulu,1493.5,2015-2016,Kawasan Hutan
+Lampung,1384.1,2015-2016,Kawasan Hutan
+Kepulauan Bangka Belitung,344.8,2015-2016,Kawasan Hutan
+Kepulauan Riau,2651.4,2015-2016,Kawasan Hutan
+Bali,4096.0,2015-2016,Kawasan Hutan
+Nusa Tenggara Barat,12561.9,2015-2016,Kawasan Hutan
+Kalimantan Barat,60146.3,2015-2016,Kawasan Hutan
+Kalimantan Tengah,88816.2,2015-2016,Kawasan Hutan
+Kalimantan Selatan,26180.6,2015-2016,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,57104.9,2015-2016,Kawasan Hutan
+Sulawesi Utara,1838.6,2015-2016,Kawasan Hutan
+Sulawesi Tengah,16045.5,2015-2016,Kawasan Hutan
+Sulawesi Selatan,24738.8,2015-2016,Kawasan Hutan
+Sulawesi Tenggara,12399.0,2015-2016,Kawasan Hutan
+Gorontalo,2074.8,2015-2016,Kawasan Hutan
+Sulawesi Barat,7289.5,2015-2016,Kawasan Hutan
+Maluku,6803.9,2015-2016,Kawasan Hutan
+Maluku Utara,22730.5,2015-2016,Kawasan Hutan
+Papua Barat,6101.6,2015-2016,Kawasan Hutan
+Papua,2117.2,2015-2016,Kawasan Hutan
+INDONESIA,431266.3,2015-2016,Kawasan Hutan
+Aceh,10548.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,1807.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Riau,5825.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,558.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,1204.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bengkulu,305.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,1347.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,3359.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Barat,9800.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,64809.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,9313.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Selatan,6944.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,51577.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,514.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,10043.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,5198.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,2966.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,167.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,2235.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,96.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,3061.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,4119.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,4612.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,197910.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,23071.6,nan,Total Deforestasi
+Sumatera Utara,9714.3,nan,Total Deforestasi
+Sumatera Barat,7817.8,nan,Total Deforestasi
+Riau,24190.9,nan,Total Deforestasi
+Jambi,24821.4,nan,Total Deforestasi
+Sumatera Selatan,4294.2,nan,Total Deforestasi
+Bengkulu,1798.8,nan,Total Deforestasi
+Lampung,1213.6,nan,Total Deforestasi
+Kepulauan Bangka Belitung,1692.3,nan,Total Deforestasi
+Kepulauan Riau,697.7,nan,Total Deforestasi
+Bali,7455.5,nan,Total Deforestasi
+Nusa Tenggara Barat,22362.4,nan,Total Deforestasi
+Kalimantan Barat,124956.0,nan,Total Deforestasi
+Kalimantan Tengah,98129.2,nan,Total Deforestasi
+Kalimantan Selatan,33125.1,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,108682.0,nan,Total Deforestasi
+Sulawesi Utara,2352.6,nan,Total Deforestasi
+Sulawesi Tengah,26088.6,nan,Total Deforestasi
+Sulawesi Selatan,29937.2,nan,Total Deforestasi
+Sulawesi Tenggara,15365.2,nan,Total Deforestasi
+Gorontalo,2242.5,nan,Total Deforestasi
+Sulawesi Barat,9524.7,nan,Total Deforestasi
+Maluku,6900.5,nan,Total Deforestasi
+Maluku Utara,25792.2,nan,Total Deforestasi
+Papua Barat,10221.1,nan,Total Deforestasi
+Papua,6729.6,nan,Total Deforestasi
+INDONESIA,629176.9,nan,Total Deforestasi
+Aceh,11028.1,2016-2017,Kawasan Hutan
+Sumatera Utara,16853.8,2016-2017,Kawasan Hutan
+Sumatera Barat,6567.1,2016-2017,Kawasan Hutan
+Riau,8120.6,2016-2017,Kawasan Hutan
+Jambi,29987.1,2016-2017,Kawasan Hutan
+Sumatera Selatan,17437.9,2016-2017,Kawasan Hutan
+Bengkulu,3887.9,2016-2017,Kawasan Hutan
+Lampung,2989.5,2016-2017,Kawasan Hutan
+Kepulauan Bangka Belitung,1854.0,2016-2017,Kawasan Hutan
+Kepulauan Riau,3173.7,2016-2017,Kawasan Hutan
+Kalimantan Barat,13274.8,2016-2017,Kawasan Hutan
+Kalimantan Tengah,97817.0,2016-2017,Kawasan Hutan
+Kalimantan Selatan,661.3,2016-2017,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,20913.1,2016-2017,Kawasan Hutan
+Sulawesi Utara,440.9,2016-2017,Kawasan Hutan
+Sulawesi Tengah,15679.3,2016-2017,Kawasan Hutan
+Sulawesi Selatan,7070.3,2016-2017,Kawasan Hutan
+Sulawesi Tenggara,13302.5,2016-2017,Kawasan Hutan
+Sulawesi Barat,836.2,2016-2017,Kawasan Hutan
+Maluku Utara,17732.6,2016-2017,Kawasan Hutan
+Papua Barat,21081.2,2016-2017,Kawasan Hutan
+Papua,554.5,2016-2017,Kawasan Hutan
+INDONESIA,297183.2,2016-2017,Kawasan Hutan
+Aceh,4487.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,5695.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Barat,2112.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,2884.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,4848.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bengkulu,1203.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Lampung,1430.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,1327.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Riau,2489.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,241.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,6022.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,18965.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,74068.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,164.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,28844.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,2203.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,1653.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,1144.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,576.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,2539.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,4300.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,10147.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,16704.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,182827.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,15515.7,nan,Total Deforestasi
+Sumatera Utara,22549.6,nan,Total Deforestasi
+Sumatera Barat,8680.0,nan,Total Deforestasi
+Riau,6981.6,nan,Total Deforestasi
+Jambi,32871.3,nan,Total Deforestasi
+Sumatera Selatan,22286.6,nan,Total Deforestasi
+Bengkulu,5091.5,nan,Total Deforestasi
+Lampung,4420.3,nan,Total Deforestasi
+Kepulauan Bangka Belitung,3181.7,nan,Total Deforestasi
+Kepulauan Riau,5662.8,nan,Total Deforestasi
+Bali,234.2,nan,Total Deforestasi
+Kalimantan Barat,19296.9,nan,Total Deforestasi
+Kalimantan Tengah,116782.8,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,94981.8,nan,Total Deforestasi
+Sulawesi Utara,605.3,nan,Total Deforestasi
+Sulawesi Tengah,44523.9,nan,Total Deforestasi
+Sulawesi Selatan,9274.1,nan,Total Deforestasi
+Sulawesi Tenggara,14956.3,nan,Total Deforestasi
+Sulawesi Barat,1413.0,nan,Total Deforestasi
+Maluku,1410.5,nan,Total Deforestasi
+Maluku Utara,22033.2,nan,Total Deforestasi
+Papua Barat,31228.7,nan,Total Deforestasi
+Papua,17259.1,nan,Total Deforestasi
+INDONESIA,480010.8,nan,Total Deforestasi
+Aceh,3216.4,2017-2018,Kawasan Hutan
+Sumatera Utara,4255.7,2017-2018,Kawasan Hutan
+Sumatera Barat,3824.1,2017-2018,Kawasan Hutan
+Riau,23672.3,2017-2018,Kawasan Hutan
+Jambi,5994.4,2017-2018,Kawasan Hutan
+Sumatera Selatan,3619.4,2017-2018,Kawasan Hutan
+Bengkulu,7064.0,2017-2018,Kawasan Hutan
+Lampung,1104.7,2017-2018,Kawasan Hutan
+Kepulauan Bangka Belitung,3559.1,2017-2018,Kawasan Hutan
+Kepulauan Riau,503.9,2017-2018,Kawasan Hutan
+Jawa Barat,2598.9,2017-2018,Kawasan Hutan
+Jawa Tengah,2004.7,2017-2018,Kawasan Hutan
+DI Yogyakarta,2.4,2017-2018,Kawasan Hutan
+Jawa Timur,3298.6,2017-2018,Kawasan Hutan
+Bali,99.5,2017-2018,Kawasan Hutan
+Nusa Tenggara Barat,7065.6,2017-2018,Kawasan Hutan
+Nusa Tenggara Timur,6037.1,2017-2018,Kawasan Hutan
+Kalimantan Barat,13157.7,2017-2018,Kawasan Hutan
+Kalimantan Tengah,20234.7,2017-2018,Kawasan Hutan
+Kalimantan Selatan,5396.0,2017-2018,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,26808.0,2017-2018,Kawasan Hutan
+Sulawesi Utara,3135.0,2017-2018,Kawasan Hutan
+Sulawesi Tengah,11522.7,2017-2018,Kawasan Hutan
+Sulawesi Selatan,2528.3,2017-2018,Kawasan Hutan
+Sulawesi Tenggara,20382.1,2017-2018,Kawasan Hutan
+Sulawesi Barat,566.4,2017-2018,Kawasan Hutan
+Maluku,2967.5,2017-2018,Kawasan Hutan
+Maluku Utara,8903.0,2017-2018,Kawasan Hutan
+Papua,32846.1,2017-2018,Kawasan Hutan
+INDONESIA,223323.9,2017-2018,Kawasan Hutan
+Aceh,4285.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,3063.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Barat,1689.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Riau,20042.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,3241.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,121.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bengkulu,642.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Lampung,253.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,186.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Barat,3789.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Tengah,1110.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DI Yogyakarta,587.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Timur,5511.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Banten,240.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,177.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Barat,3170.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Timur,11652.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,29133.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,7005.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Selatan,8972.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,38386.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,767.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,10424.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,1070.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,10451.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,497.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,361.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,749.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,2917.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,314.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,45941.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,216115.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,7502.2,nan,Total Deforestasi
+Sumatera Utara,7319.1,nan,Total Deforestasi
+Sumatera Barat,5514.0,nan,Total Deforestasi
+Riau,43714.8,nan,Total Deforestasi
+Jambi,9235.6,nan,Total Deforestasi
+Sumatera Selatan,3741.0,nan,Total Deforestasi
+Bengkulu,7706.4,nan,Total Deforestasi
+Lampung,1358.5,nan,Total Deforestasi
+Kepulauan Bangka Belitung,3745.8,nan,Total Deforestasi
+Jawa Barat,6388.5,nan,Total Deforestasi
+Jawa Tengah,3115.6,nan,Total Deforestasi
+DI Yogyakarta,589.8,nan,Total Deforestasi
+Jawa Timur,8810.3,nan,Total Deforestasi
+Bali,276.9,nan,Total Deforestasi
+Nusa Tenggara Barat,10236.4,nan,Total Deforestasi
+Nusa Tenggara Timur,17689.9,nan,Total Deforestasi
+Kalimantan Barat,42291.4,nan,Total Deforestasi
+Kalimantan Tengah,27240.3,nan,Total Deforestasi
+Kalimantan Selatan,14368.6,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,65194.2,nan,Total Deforestasi
+Sulawesi Utara,3902.6,nan,Total Deforestasi
+Sulawesi Tengah,21947.3,nan,Total Deforestasi
+Sulawesi Selatan,3598.2,nan,Total Deforestasi
+Sulawesi Tenggara,30834.0,nan,Total Deforestasi
+Sulawesi Barat,927.8,nan,Total Deforestasi
+Maluku,3716.9,nan,Total Deforestasi
+Maluku Utara,11820.2,nan,Total Deforestasi
+Papua,78787.4,nan,Total Deforestasi
+INDONESIA,439439.1,nan,Total Deforestasi
+Aceh,6737.5,2018-2019,Kawasan Hutan
+Sumatera Utara,9583.9,2018-2019,Kawasan Hutan
+Sumatera Barat,7626.0,2018-2019,Kawasan Hutan
+Riau,136998.3,2018-2019,Kawasan Hutan
+Jambi,26109.6,2018-2019,Kawasan Hutan
+Sumatera Selatan,57857.6,2018-2019,Kawasan Hutan
+Bengkulu,1959.4,2018-2019,Kawasan Hutan
+Lampung,182.3,2018-2019,Kawasan Hutan
+Kepulauan Bangka Belitung,1574.3,2018-2019,Kawasan Hutan
+Kepulauan Riau,356.7,2018-2019,Kawasan Hutan
+Jawa Barat,3782.4,2018-2019,Kawasan Hutan
+Jawa Tengah,1859.6,2018-2019,Kawasan Hutan
+DI Yogyakarta,141.4,2018-2019,Kawasan Hutan
+Jawa Timur,5066.4,2018-2019,Kawasan Hutan
+Banten,67.3,2018-2019,Kawasan Hutan
+Bali,89.3,2018-2019,Kawasan Hutan
+Nusa Tenggara Barat,12382.4,2018-2019,Kawasan Hutan
+Nusa Tenggara Timur,1279.2,2018-2019,Kawasan Hutan
+Kalimantan Barat,15109.1,2018-2019,Kawasan Hutan
+Kalimantan Tengah,17974.3,2018-2019,Kawasan Hutan
+Kalimantan Selatan,6309.9,2018-2019,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,43031.6,2018-2019,Kawasan Hutan
+Sulawesi Utara,213.0,2018-2019,Kawasan Hutan
+Sulawesi Tengah,2292.4,2018-2019,Kawasan Hutan
+Sulawesi Selatan,1387.7,2018-2019,Kawasan Hutan
+Sulawesi Tenggara,4544.1,2018-2019,Kawasan Hutan
+Gorontalo,261.3,2018-2019,Kawasan Hutan
+Maluku,1214.7,2018-2019,Kawasan Hutan
+Maluku Utara,1780.7,2018-2019,Kawasan Hutan
+Papua Barat,1855.3,2018-2019,Kawasan Hutan
+Papua,6468.1,2018-2019,Kawasan Hutan
+INDONESIA,375866.7,2018-2019,Kawasan Hutan
+Aceh,4870.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,2818.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Barat,1698.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Riau,5012.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,1272.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,2797.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bengkulu,201.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Lampung,443.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,580.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Riau,205.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Barat,1194.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Tengah,44.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DI Yogyakarta,185.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Timur,738.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Banten,16.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,1.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Barat,3589.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Timur,2233.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,8985.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,8265.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Selatan,1789.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,26552.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,47.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,1499.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,628.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,2013.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,116.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,0.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,57.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,546.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,3440.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,4744.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,86591.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,11608.0,nan,Total Deforestasi
+Sumatera Utara,12402.4,nan,Total Deforestasi
+Sumatera Barat,9324.8,nan,Total Deforestasi
+Riau,142011.1,nan,Total Deforestasi
+Jambi,27382.0,nan,Total Deforestasi
+Sumatera Selatan,60655.1,nan,Total Deforestasi
+Bengkulu,2160.6,nan,Total Deforestasi
+Lampung,625.4,nan,Total Deforestasi
+Kepulauan Bangka Belitung,2154.4,nan,Total Deforestasi
+Kepulauan Riau,562.0,nan,Total Deforestasi
+Jawa Barat,4977.4,nan,Total Deforestasi
+Jawa Tengah,1904.0,nan,Total Deforestasi
+DI Yogyakarta,326.4,nan,Total Deforestasi
+Jawa Timur,5804.7,nan,Total Deforestasi
+Banten,83.4,nan,Total Deforestasi
+Bali,91.0,nan,Total Deforestasi
+Nusa Tenggara Barat,15971.9,nan,Total Deforestasi
+Nusa Tenggara Timur,3512.8,nan,Total Deforestasi
+Kalimantan Barat,24095.0,nan,Total Deforestasi
+Kalimantan Tengah,26240.2,nan,Total Deforestasi
+Kalimantan Selatan,8099.3,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,69584.6,nan,Total Deforestasi
+Sulawesi Utara,260.8,nan,Total Deforestasi
+Sulawesi Tengah,3791.8,nan,Total Deforestasi
+Sulawesi Selatan,2015.7,nan,Total Deforestasi
+Sulawesi Tenggara,6557.2,nan,Total Deforestasi
+Gorontalo,378.1,nan,Total Deforestasi
+Maluku,1271.8,nan,Total Deforestasi
+Maluku Utara,2326.8,nan,Total Deforestasi
+Papua Barat,5296.1,nan,Total Deforestasi
+Papua,11212.2,nan,Total Deforestasi
+INDONESIA,462458.5,nan,Total Deforestasi
+Aceh,1195.3,2019-2020,Kawasan Hutan
+Sumatera Utara,470.4,2019-2020,Kawasan Hutan
+Sumatera Barat,700.2,2019-2020,Kawasan Hutan
+Riau,5672.6,2019-2020,Kawasan Hutan
+Jambi,4035.0,2019-2020,Kawasan Hutan
+Bengkulu,3022.5,2019-2020,Kawasan Hutan
+Lampung,384.1,2019-2020,Kawasan Hutan
+Kepulauan Bangka Belitung,89.3,2019-2020,Kawasan Hutan
+Kepulauan Riau,980.3,2019-2020,Kawasan Hutan
+DKI Jakarta,0.0,2019-2020,Kawasan Hutan
+Jawa Barat,0.0,2019-2020,Kawasan Hutan
+Jawa Tengah,0.0,2019-2020,Kawasan Hutan
+DI Yogyakarta,0.0,2019-2020,Kawasan Hutan
+Jawa Timur,0.0,2019-2020,Kawasan Hutan
+Banten,0.0,2019-2020,Kawasan Hutan
+Bali,43.8,2019-2020,Kawasan Hutan
+Nusa Tenggara Barat,10571.9,2019-2020,Kawasan Hutan
+Nusa Tenggara Timur,2579.3,2019-2020,Kawasan Hutan
+Kalimantan Barat,6546.6,2019-2020,Kawasan Hutan
+Kalimantan Tengah,3206.4,2019-2020,Kawasan Hutan
+Kalimantan Selatan,5247.8,2019-2020,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,2792.7,2019-2020,Kawasan Hutan
+Sulawesi Utara,231.8,2019-2020,Kawasan Hutan
+Sulawesi Tengah,5270.8,2019-2020,Kawasan Hutan
+Sulawesi Selatan,386.5,2019-2020,Kawasan Hutan
+Sulawesi Tenggara,2794.5,2019-2020,Kawasan Hutan
+Gorontalo,737.1,2019-2020,Kawasan Hutan
+Sulawesi Barat,204.7,2019-2020,Kawasan Hutan
+Maluku,8534.0,2019-2020,Kawasan Hutan
+Maluku Utara,1506.8,2019-2020,Kawasan Hutan
+Papua Barat,413.5,2019-2020,Kawasan Hutan
+Papua,1731.4,2019-2020,Kawasan Hutan
+INDONESIA,66995.7,2019-2020,Kawasan Hutan
+Aceh,722.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,763.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Barat,74.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Riau,893.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,451.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,41.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bengkulu,337.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Lampung,79.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,29.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Riau,334.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DKI Jakarta,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Barat,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Tengah,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DI Yogyakarta,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Timur,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Banten,34.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,1.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Barat,2436.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Timur,5710.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,9787.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,3705.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Selatan,2299.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,7867.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,167.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,4232.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,532.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,389.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,330.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,11.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,733.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,103.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,1494.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,4898.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,48464.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,1917.9,nan,Total Deforestasi
+Sumatera Utara,1233.6,nan,Total Deforestasi
+Sumatera Barat,774.6,nan,Total Deforestasi
+Riau,6566.2,nan,Total Deforestasi
+Jambi,4486.9,nan,Total Deforestasi
+Bengkulu,3359.8,nan,Total Deforestasi
+Lampung,463.3,nan,Total Deforestasi
+Kepulauan Bangka Belitung,118.4,nan,Total Deforestasi
+Kepulauan Riau,1314.4,nan,Total Deforestasi
+DKI Jakarta,0.0,nan,Total Deforestasi
+Jawa Barat,0.0,nan,Total Deforestasi
+Jawa Tengah,0.0,nan,Total Deforestasi
+DI Yogyakarta,0.0,nan,Total Deforestasi
+Jawa Timur,0.0,nan,Total Deforestasi
+Banten,34.3,nan,Total Deforestasi
+Bali,45.0,nan,Total Deforestasi
+Nusa Tenggara Barat,13007.9,nan,Total Deforestasi
+Nusa Tenggara Timur,8289.5,nan,Total Deforestasi
+Kalimantan Barat,16334.5,nan,Total Deforestasi
+Kalimantan Tengah,6912.3,nan,Total Deforestasi
+Kalimantan Selatan,7547.2,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,10660.5,nan,Total Deforestasi
+Sulawesi Utara,399.4,nan,Total Deforestasi
+Sulawesi Tengah,9503.1,nan,Total Deforestasi
+Sulawesi Selatan,919.1,nan,Total Deforestasi
+Sulawesi Tenggara,3184.4,nan,Total Deforestasi
+Gorontalo,1067.9,nan,Total Deforestasi
+Sulawesi Barat,215.7,nan,Total Deforestasi
+Maluku,9267.4,nan,Total Deforestasi
+Maluku Utara,1609.8,nan,Total Deforestasi
+Papua Barat,1908.4,nan,Total Deforestasi
+Papua,6630.3,nan,Total Deforestasi
+INDONESIA,115459.8,nan,Total Deforestasi
+Aceh,1816.3,2020-2021,Kawasan Hutan
+Sumatera Utara,2499.0,2020-2021,Kawasan Hutan
+Sumatera Barat,5772.0,2020-2021,Kawasan Hutan
+Riau,1425.0,2020-2021,Kawasan Hutan
+Jambi,19442.0,2020-2021,Kawasan Hutan
+Sumatera Selatan,1982.0,2020-2021,Kawasan Hutan
+Bengkulu,1854.0,2020-2021,Kawasan Hutan
+Lampung,222.0,2020-2021,Kawasan Hutan
+Kepulauan Bangka Belitung,1870.0,2020-2021,Kawasan Hutan
+Kepulauan Riau,422.0,2020-2021,Kawasan Hutan
+DKI Jakarta,0.0,2020-2021,Kawasan Hutan
+Jawa Barat,339.0,2020-2021,Kawasan Hutan
+Jawa Tengah,195.0,2020-2021,Kawasan Hutan
+DI Yogyakarta,0.0,2020-2021,Kawasan Hutan
+Jawa Timur,85.0,2020-2021,Kawasan Hutan
+Banten,275.0,2020-2021,Kawasan Hutan
+Bali,46.0,2020-2021,Kawasan Hutan
+Nusa Tenggara Barat,2339.0,2020-2021,Kawasan Hutan
+Nusa Tenggara Timur,812.0,2020-2021,Kawasan Hutan
+Kalimantan Barat,3305.0,2020-2021,Kawasan Hutan
+Kalimantan Tengah,15754.0,2020-2021,Kawasan Hutan
+Kalimantan Selatan,1574.0,2020-2021,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,8150.0,2020-2021,Kawasan Hutan
+Sulawesi Utara,59.0,2020-2021,Kawasan Hutan
+Sulawesi Tengah,1554.0,2020-2021,Kawasan Hutan
+Sulawesi Selatan,68.0,2020-2021,Kawasan Hutan
+Sulawesi Tenggara,3400.0,2020-2021,Kawasan Hutan
+Gorontalo,405.0,2020-2021,Kawasan Hutan
+Sulawesi Barat,3605.0,2020-2021,Kawasan Hutan
+Maluku,1209.0,2020-2021,Kawasan Hutan
+Maluku Utara,903.0,2020-2021,Kawasan Hutan
+Papua Barat,603.0,2020-2021,Kawasan Hutan
+Papua,1415.0,2020-2021,Kawasan Hutan
+INDONESIA,83399.3,2020-2021,Kawasan Hutan
+Aceh,1182.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,840.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Barat,1025.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Riau,93.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,605.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,210.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bengkulu,179.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Lampung,53.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,117.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Riau,60.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DKI Jakarta,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Barat,43.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Tengah,12.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DI Yogyakarta,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Timur,58.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Banten,3.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Barat,784.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Timur,589.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,6790.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,5782.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Selatan,455.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,12774.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,49.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,837.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,76.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,788.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,107.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,86.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,85.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,61.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,1427.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,2136.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,37306.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,2998.8,nan,Total Deforestasi
+Sumatera Utara,3339.0,nan,Total Deforestasi
+Sumatera Barat,6797.0,nan,Total Deforestasi
+Riau,1518.0,nan,Total Deforestasi
+Jambi,20047.0,nan,Total Deforestasi
+Sumatera Selatan,2192.0,nan,Total Deforestasi
+Bengkulu,2033.0,nan,Total Deforestasi
+Lampung,275.0,nan,Total Deforestasi
+Kepulauan Bangka Belitung,1987.0,nan,Total Deforestasi
+Kepulauan Riau,482.0,nan,Total Deforestasi
+DKI Jakarta,0.0,nan,Total Deforestasi
+Jawa Barat,382.0,nan,Total Deforestasi
+Jawa Tengah,207.0,nan,Total Deforestasi
+DI Yogyakarta,0.0,nan,Total Deforestasi
+Jawa Timur,143.0,nan,Total Deforestasi
+Banten,278.0,nan,Total Deforestasi
+Bali,46.0,nan,Total Deforestasi
+Nusa Tenggara Barat,3123.0,nan,Total Deforestasi
+Nusa Tenggara Timur,1401.0,nan,Total Deforestasi
+Kalimantan Barat,10095.0,nan,Total Deforestasi
+Kalimantan Tengah,21536.0,nan,Total Deforestasi
+Kalimantan Selatan,2029.0,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,20924.0,nan,Total Deforestasi
+Sulawesi Utara,108.0,nan,Total Deforestasi
+Sulawesi Tengah,2391.0,nan,Total Deforestasi
+Sulawesi Selatan,144.0,nan,Total Deforestasi
+Sulawesi Tenggara,4188.0,nan,Total Deforestasi
+Gorontalo,512.0,nan,Total Deforestasi
+Sulawesi Barat,3691.0,nan,Total Deforestasi
+Maluku,1294.0,nan,Total Deforestasi
+Maluku Utara,964.0,nan,Total Deforestasi
+Papua Barat,2030.0,nan,Total Deforestasi
+Papua,3551.0,nan,Total Deforestasi
+INDONESIA,120705.8,nan,Total Deforestasi
+Aceh,2834.5,2021-2022,Kawasan Hutan
+Sumatera Utara,3259.5,2021-2022,Kawasan Hutan
+Sumatera Barat,4861.4,2021-2022,Kawasan Hutan
+Riau,7897.7,2021-2022,Kawasan Hutan
+Jambi,5094.4,2021-2022,Kawasan Hutan
+Bengkulu,4432.3,2021-2022,Kawasan Hutan
+Lampung,557.6,2021-2022,Kawasan Hutan
+Kepulauan Bangka Belitung,1683.8,2021-2022,Kawasan Hutan
+Kepulauan Riau,91.8,2021-2022,Kawasan Hutan
+DKI Jakarta,0.0,2021-2022,Kawasan Hutan
+Jawa Barat,102.3,2021-2022,Kawasan Hutan
+Jawa Tengah,209.9,2021-2022,Kawasan Hutan
+DI Yogyakarta,12.9,2021-2022,Kawasan Hutan
+Jawa Timur,19.4,2021-2022,Kawasan Hutan
+Banten,3.5,2021-2022,Kawasan Hutan
+Bali,51.2,2021-2022,Kawasan Hutan
+Nusa Tenggara Barat,4830.4,2021-2022,Kawasan Hutan
+Nusa Tenggara Timur,1656.0,2021-2022,Kawasan Hutan
+Kalimantan Barat,5128.9,2021-2022,Kawasan Hutan
+Kalimantan Tengah,9838.2,2021-2022,Kawasan Hutan
+Kalimantan Selatan,636.4,2021-2022,Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,5574.1,2021-2022,Kawasan Hutan
+Sulawesi Utara,295.2,2021-2022,Kawasan Hutan
+Sulawesi Tengah,3490.4,2021-2022,Kawasan Hutan
+Sulawesi Selatan,840.9,2021-2022,Kawasan Hutan
+Sulawesi Tenggara,2700.7,2021-2022,Kawasan Hutan
+Gorontalo,254.3,2021-2022,Kawasan Hutan
+Sulawesi Barat,329.8,2021-2022,Kawasan Hutan
+Maluku,1412.7,2021-2022,Kawasan Hutan
+Maluku Utara,2318.8,2021-2022,Kawasan Hutan
+Papua,2922.5,2021-2022,Kawasan Hutan
+INDONESIA,73130.1,2021-2022,Kawasan Hutan
+Aceh,2532.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Utara,2339.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Barat,956.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Riau,1357.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jambi,372.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sumatera Selatan,540.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bengkulu,330.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Lampung,66.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Bangka Belitung,531.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kepulauan Riau,298.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DKI Jakarta,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Barat,127.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+DI Yogyakarta,0.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Jawa Timur,50.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Bali,2.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Barat,1580.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Nusa Tenggara Timur,2288.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Barat,2716.8,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Tengah,1726.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Kalimantan Timur dan Kalimantan Utara ,8184.7,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Utara,89.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tengah,2270.1,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Selatan,239.3,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Tenggara,916.6,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Gorontalo,83.2,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Sulawesi Barat,75.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku,50.5,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Maluku Utara,346.9,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua Barat,334.0,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Papua,1609.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+INDONESIA,30902.4,nan,APL (Areal Penggunaan Lain) / Bukan Kawasan Hutan
+Aceh,5367.1,nan,Total Deforestasi
+Sumatera Utara,5598.9,nan,Total Deforestasi
+Sumatera Barat,5817.5,nan,Total Deforestasi
+Riau,9254.8,nan,Total Deforestasi
+Jambi,5466.7,nan,Total Deforestasi
+Sumatera Selatan,403.9,nan,Total Deforestasi
+Bengkulu,4762.3,nan,Total Deforestasi
+Lampung,623.7,nan,Total Deforestasi
+Kepulauan Bangka Belitung,2215.1,nan,Total Deforestasi
+Kepulauan Riau,389.9,nan,Total Deforestasi
+DKI Jakarta,0.0,nan,Total Deforestasi
+Jawa Barat,230.2,nan,Total Deforestasi
+DI Yogyakarta,12.9,nan,Total Deforestasi
+Jawa Timur,69.8,nan,Total Deforestasi
+Bali,53.2,nan,Total Deforestasi
+Nusa Tenggara Barat,6411.2,nan,Total Deforestasi
+Nusa Tenggara Timur,3944.8,nan,Total Deforestasi
+Kalimantan Barat,7845.7,nan,Total Deforestasi
+Kalimantan Tengah,11564.4,nan,Total Deforestasi
+Kalimantan Selatan,134.9,nan,Total Deforestasi
+Kalimantan Timur dan Kalimantan Utara ,13758.8,nan,Total Deforestasi
+Sulawesi Utara,384.6,nan,Total Deforestasi
+Sulawesi Tengah,5760.5,nan,Total Deforestasi
+Sulawesi Selatan,1080.2,nan,Total Deforestasi
+Sulawesi Tenggara,3617.3,nan,Total Deforestasi
+Gorontalo,337.5,nan,Total Deforestasi
+Sulawesi Barat,405.7,nan,Total Deforestasi
+Maluku,1463.2,nan,Total Deforestasi
+Maluku Utara,2665.7,nan,Total Deforestasi
+Papua Barat,259.2,nan,Total Deforestasi
+Papua,4531.9,nan,Total Deforestasi
+INDONESIA,104032.5,nan,Total Deforestasi
