@@ -1,66 +1,64 @@
-# 🌳 Analisis Deforestasi di Indonesia (Data Aggregation & Visualization)
+# 🌳 Analisis Deforestasi Indonesia
 
-Project ini berfokus pada pembersihan dan analisis data deforestasi di Indonesia berdasarkan dataset multi-level (tahun dan kategori), dengan teknik **data aggregation** dan visualisasi interaktif menggunakan `pandas`, `matplotlib`, dan `seaborn`.
+Proyek ini bertujuan untuk menganalisis data deforestasi di Indonesia berdasarkan dataset tahunan per provinsi dan kategori lahan. Analisis dilakukan menggunakan Python dan divisualisasikan melalui berbagai jenis grafik agar dapat memberikan gambaran tren dan distribusi deforestasi nasional dari tahun ke tahun.
 
-## 📁 Struktur Dataset
+## ⚙️ Tools & Library
 
-Dataset mentah berupa file CSV dengan struktur multi-header pada baris pertama dan kedua. Proses cleaning dilakukan agar data siap dianalisis.
+Proyek ini dikembangkan menggunakan bahasa pemrograman Python dengan library berikut:
 
-Kolom hasil cleaning:
+- `pandas` — untuk manipulasi dan pembersihan data
+- `numpy` — untuk operasi numerik
+- `matplotlib.pyplot` — untuk membuat visualisasi dasar
+- `seaborn` — untuk membuat visualisasi statistik yang lebih menarik
+- `jupyter notebook` — untuk mengembangkan dan mendokumentasikan analisis
 
-- `Provinsi`: Nama provinsi
-- `Tahun`: Tahun pengamatan
-- `Kategori`: Jenis data (misalnya "Deforestasi Kawasan Hutan", "APL", dll.)
-- `Nilai`: Nilai numerik (dalam hektar)
+## Teknik Preprocessing dengan Agregation
 
----
+Setelah data dibersihkan, dilakukan agregasi menggunakan teknik:
+- `groupby()` pada kolom `Tahun`, `Provinsi`, dan `Kategori`
+- Fungsi agregasi utama: `.sum()` untuk mendapatkan total deforestasi atau luasan lahan per kategori
+- Hasil agregasi digunakan untuk membuat visualisasi seperti line chart, bar chart, pie chart, dan heatmap
 
-## 🧼 Data Cleaning
+## 🧹 Data Preprocessing
 
-Data dibersihkan dengan langkah-langkah berikut:
+Langkah-langkah pembersihan dan transformasi data:
+1. **Gabungkan Header**  
+   Dataset memiliki dua baris header (Tahun dan Kategori) yang digabung menjadi format `Tahun - Kategori`.
 
-1. Gabungkan dua baris header menjadi satu nama kolom (format: `Tahun - Kategori`)
-2. Ubah dari format wide ke long menggunakan `melt()`
-3. Pisahkan kolom gabungan menjadi `Tahun` dan `Kategori`
-4. Filter hanya nilai numerik
-5. Hapus koma dan ubah ke float
+2. **Ubah ke Long Format**  
+   Menggunakan `pandas.melt()` untuk mengubah data menjadi long format dengan kolom:
+   - `Provinsi`
+   - `Tahun`
+   - `Kategori`
+   - `Nilai`
 
-File hasil cleaning disimpan sebagai: `dataset/datasetTubes_cleaned.csv`
+3. **Pisahkan Kolom**  
+   Kolom gabungan `Tahun - Kategori` dipecah menjadi dua kolom terpisah: `Tahun` dan `Kategori`.
 
----
+4. **Filter Nilai Valid**  
+   Hanya data numerik yang valid yang dipertahankan. Nilai yang mengandung deskripsi diabaikan.
 
-## 📊 Analisis & Visualisasi
+5. **Konversi Tipe Data**  
+   Nilai diformat ulang (hapus koma, titik) dan dikonversi ke `float` agar bisa dihitung dan divisualisasikan.
 
-Berikut beberapa hasil visualisasi yang dibuat:
+## 📈 Visualisasi
+
+Berikut adalah visualisasi yang dihasilkan dari dataset:
 
 ### 1. Tren Total Deforestasi Nasional per Tahun
-Menampilkan perubahan total deforestasi nasional dari waktu ke waktu (Line Chart).
+Visualisasi: **Line Chart**  
+Menampilkan jumlah total deforestasi di seluruh Indonesia dari tahun ke tahun.
 
 ### 2. Perbandingan Kawasan Hutan vs APL per Tahun
-Menunjukkan bagaimana proporsi antara kawasan hutan dan area penggunaan lain (APL) tiap tahun (Stacked Bar Chart).
+Visualisasi: **Stacked Bar Chart**  
+Membandingkan penggunaan lahan antara Kawasan Hutan dan APL (Area Penggunaan Lain) dari tahun ke tahun.
 
 ### 3. Deforestasi Terbesar per Provinsi (Akumulatif)
-Visualisasi provinsi-provinsi dengan total deforestasi tertinggi (Pie Chart).
+Visualisasi: **Pie Chart**  
+Menampilkan 10 provinsi dengan akumulasi deforestasi terbesar sepanjang tahun pengamatan.
 
 ### 4. Heatmap Deforestasi per Provinsi dan Tahun
-Visualisasi intensitas deforestasi berdasarkan wilayah dan tahun (Heatmap).
+Visualisasi: **Heatmap**  
+Menampilkan sebaran intensitas deforestasi berdasarkan provinsi dan tahun. Membantu mengidentifikasi pola spasial dan temporal.
 
 ---
-
-## 🛠️ Tools & Library
-
-- Python 3
-- pandas
-- matplotlib
-- seaborn
-- jupyter notebook / VS Code
-
----
-
-## 🚀 Menjalankan Proyek
-
-1. Clone repositori:
-   ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
-    ```
