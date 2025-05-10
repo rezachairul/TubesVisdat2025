@@ -62,3 +62,23 @@ Visualisasi: **Heatmap**
 Menampilkan sebaran intensitas deforestasi berdasarkan provinsi dan tahun. Membantu mengidentifikasi pola spasial dan temporal.
 
 ---
+
+## 📂 Struktur File
+📦Visualisasi Data Deforestasi Indonesia
+ ┣ 📂.git
+ ┣ 📂assets
+ ┃ ┗ 📂img
+ ┃ ┃ ┣ 📜bg_piechart.png
+ ┃ ┃ ┣ 📜high_def.png
+ ┃ ┃ ┗ 📜low_def.png
+ ┣ 📂dataset
+ ┃ ┣ 📜Angka-Deforestasi-(Netto)-Indonesia-di-Dalam-dan-di-Luar-Kawasan-Hutan-Tahun-2013-2022-(Ha_Th).csv
+ ┃ ┣ 📜angka-deforestasi--netto--indonesia-di-dalam-dan-di-luar-kawasan-hutan-tahun-2013-2022--ha-th-.xlsx
+ ┃ ┣ 📜datasetTubes.csv
+ ┃ ┗ 📜datasetTubes.xlsx
+ ┣ 📂hasil-preposesing-data
+ ┃ ┗ 📜datasetTubes_cleaned_fixed_1.csv
+ ┣ 📂output-peta-deforestasi
+ ┣ 📜indonesia_provinces.geojson
+ ┣ 📜preprosesing_data_kelompok_9.ipynb
+ ┗ 📜README.md
