@@ -64,6 +64,7 @@ Menampilkan sebaran intensitas deforestasi berdasarkan provinsi dan tahun. Memba
 ---
 
 ## 📂 Struktur File
+<pre>
 📦Visualisasi Data Deforestasi Indonesia
  ┣ 📂.git
  ┣ 📂assets
@@ -82,3 +83,4 @@ Menampilkan sebaran intensitas deforestasi berdasarkan provinsi dan tahun. Memba
  ┣ 📜indonesia_provinces.geojson
  ┣ 📜preprosesing_data_kelompok_9.ipynb
  ┗ 📜README.md
+ </pre>
